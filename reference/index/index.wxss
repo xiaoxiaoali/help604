@@ -1,0 +1,15 @@
+.service01{
+  margin-top: 20rpx;
+  text-align: center;
+}
+
+.link01{
+  display: inline-block; 
+  margin-left: 0.2%;  
+}
+
+.photo01{
+   width:220rpx;          
+   height: 220rpx;      
+   margin:10rpx;  
+ }

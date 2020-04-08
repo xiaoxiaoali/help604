@@ -1,0 +1,20 @@
+<view class='service01'>
+<navigator  url='/pages/demandInfor01/demandInfor01' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/5c78b0791ad7d752bcd26ec176db412b8e7f0235bc117ab3.png' class='photo01'></image>
+</navigator>
+<navigator  url='/pages/demandInfor02/demandInfor02' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/dcca37070616ad59d7cacdb9bc01a6ec9b376e90cbe67920.png' class='photo01'></image>
+</navigator>
+<navigator  url='/pages/demandInfor03/demandInfor03' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/28076b32540ef33160201a82514451fcfb9be5dae72e145f.png' class='photo01'></image>
+</navigator>
+<navigator  url='/pages/demandInfor04/demandInfor04' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/aee5cdd941033a757b248a6dcac6a35d99d0599d877a76d1.png' class='photo01'></image>
+</navigator>
+<navigator  url='/pages/demandInfor05/demandInfor05' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/6954f92e080511479bb6520c3dcea1282a61937f169c2bec.png' class='photo01'></image>
+</navigator>
+<navigator  url='/pages/demandInfor06/demandInfor06' hover-class="changestyle" class='link01' >
+     <image src='https://file.moetu.org/images/2020/04/04/8e4f1119d36b8eb2c061903e4cd17f701fc5c889f9c7a88b.png' class='photo01'></image>
+</navigator>
+</view>
